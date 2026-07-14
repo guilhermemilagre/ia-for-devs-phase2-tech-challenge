@@ -1,0 +1,15 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+notebooks/
+data/
+logs/
+fase2/
+.env
+*.log
+*.ipynb_checkpoints

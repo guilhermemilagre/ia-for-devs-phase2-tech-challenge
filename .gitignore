@@ -25,6 +25,9 @@ build/
 .DS_Store
 Thumbs.db
 
+# Variaveis de ambiente e segredos
+.env
+
 # AI coding assistants
 .claude/
 .cursor/
